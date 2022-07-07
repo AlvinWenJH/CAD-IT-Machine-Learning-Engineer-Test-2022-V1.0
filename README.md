@@ -100,7 +100,7 @@ By splitting the lines using the label as delimiters by specifying `max_split=1`
 
 <br>
 <p align="center">
-    <img src="https://github.com/AlvinWenJH/CAD-IT-Machine-Learning-Engineer-Test-2022-V1.0/blob/main/images/textSample.png" width="720">
+    <img src="https://github.com/AlvinWenJH/CAD-IT-Machine-Learning-Engineer-Test-2022-V1.0/blob/main/images/textSample.png" width="480">
     <br>
 </p>
 <br>
