@@ -49,6 +49,31 @@ In this work, I train the typical RandomForest and MLP model that was said to pe
 * RandomForestClassifier(n_estimator=100)
 * MLPClassifier(max_iter=100)
 Both of the models gives similar accuracies at around **99.952 %**
+
+### Q2 - Extracting Data from PDF to excel
+
+The data that should be extracted are Description, Possible root cause and page number from the [Q2.pdf](https://github.com/AlvinWenJH/CAD-IT-Machine-Learning-Engineer-Test-2022-V1.0/blob/main/Q2.pdf).
+To extract all the information, the library Tabula-py and PyPDF2 were utilized. Sample of the output data can be seen in the figure below.
+
+<br>
+<p align="center">
+    <img src="https://github.com/AlvinWenJH/CAD-IT-Machine-Learning-Engineer-Test-2022-V1.0/blob/main/images/dfSample.png" width="720">
+    <br>
+</p>
+<br>
+
+The app made can be downloaded at [this link](https://drive.google.com/drive/folders/1kGoras_T30VTshLlvlUd8HpffhnaPlpo?usp=sharing). Below are the preview of the app.
+
+<br>
+<p align="center">
+    <img src="https://github.com/AlvinWenJH/CAD-IT-Machine-Learning-Engineer-Test-2022-V1.0/blob/main/images/Q1app.png" width="360">
+    <br>
+</p>
+<br>
+
+**NB** : Please download the whole folder to run the app.
+
+
 ## Authors
 
 - [@AlvinWenJH](https://github.com/AlvinWenJH)
