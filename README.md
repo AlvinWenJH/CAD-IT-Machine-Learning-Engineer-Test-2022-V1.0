@@ -25,6 +25,11 @@ The columns of the data are :
 #### EDA
 To visualize the **balancy** of the label (Fault), we can make use of the Matplotlib's histogram plot.
 
+<p align="center">
+    <img src="https://github.com/AlvinWenJH/CAD-IT-Machine-Learning-Engineer-Test-2022-V1.0/blob/main/images/BalancyHist.png" width="480">
+    <br>
+</p>
+
 ![BalancyHist.png](https://github.com/AlvinWenJH/CAD-IT-Machine-Learning-Engineer-Test-2022-V1.0/blob/main/images/BalancyHist.png?raw=true)
 
 ## Authors
