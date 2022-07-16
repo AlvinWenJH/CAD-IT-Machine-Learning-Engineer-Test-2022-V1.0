@@ -14,7 +14,7 @@ def load_model(model):
 
 st.title("Faulty Check Prediction")
 
-st.write("""### We need some information to predict the Faulty""")
+st.write("""### Input Sensors Data""")
 
 models = ("RandomForest", "XGBoost","MLP")
 modelname = st.selectbox("Model :",models)
