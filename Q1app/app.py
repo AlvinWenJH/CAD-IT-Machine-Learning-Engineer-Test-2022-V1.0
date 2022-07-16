@@ -14,11 +14,10 @@ def load_model(model):
 
 st.title("Faulty Check Prediction")
 
-st.write("""### Input Sensors Data""")
-
 models = ("RandomForest", "XGBoost","MLP")
 modelname = st.selectbox("Model :",models)
 
+st.write("""### Input Sensors Data""")
 col1, col2 = st.columns(2)
 with col1:
   CH1Temp1 = st.number_input("CH1Temp1")
