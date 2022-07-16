@@ -8,7 +8,7 @@ import numpy as np
 def load_model(model):
     filename = model+".sav"
     model_path = Path(__file__).parents[1] / filename
-    joblib_model = joblib.load(filename)
+    joblib_model = joblib.load(model_path)
     return joblib_model
 
 
