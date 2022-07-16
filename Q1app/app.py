@@ -1,10 +1,13 @@
 import streamlit as st
-
+from pathlib import Path
 import joblib
 import numpy as np
 
+
+
 def load_model(model):
     filename = model+".sav"
+    model_path = Path(__file__).parents[1] / filename
     joblib_model = joblib.load(filename)
     return joblib_model
 
