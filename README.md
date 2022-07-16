@@ -51,7 +51,7 @@ In this work, I train the typical RandomForest and MLP model that was said to pe
 * MLPClassifier(max_iter=100)
 Both of the models gives similar accuracies at around **99.952 %**
 
-The app made can be downloaded at [this link](https://drive.google.com/drive/folders/1kGoras_T30VTshLlvlUd8HpffhnaPlpo?usp=sharing). Below are the preview of the app.
+The standalone app made can be downloaded at [this link](https://drive.google.com/drive/folders/1kGoras_T30VTshLlvlUd8HpffhnaPlpo?usp=sharing) or using [this link](https://alvinwenjh-cad-it-machine-learning-engineer-tes-q1appapp-9nx0m8.streamlitapp.com/) for the webapp. Below are the preview of the app.
 
 <br>
 <p align="center">
